@@ -1,2 +1,2 @@
 # MLHC19-CXR
-This is the code for the final project of course 6.S897/HST.956.
+This is the code for the final project of course 6.S897/HST.956. We are a team of Lauren Clayberg, Webster Guan, and Di Jin. Our project is titled as "Multimodal Image-Text Models for Chest X-ray Classification". We proposed two methods: Embedding Networks for ImprovedClassification, and Text-Guided Attention Model, which are contained in separate folders. To use them, please refer to the readme file in the corresponding folders. 
